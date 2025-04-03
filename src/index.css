@@ -6,6 +6,12 @@
   padding: 20px;
 }
 
+@media (max-width: 900px) {
+  .container {
+    display: block;
+  }
+}
+
 .input-container {
   flex: 1;
   display: flex;
